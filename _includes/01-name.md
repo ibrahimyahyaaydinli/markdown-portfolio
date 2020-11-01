@@ -1,3 +1,4 @@
-Replace this with your name, and include a header.
-# İbrahim Yahya AYDINLI 
-###### Bursa Teknik Üniversitesi
+
+# Bursa Teknik Üniversitesi
+## Bilgisayar Mühendisliği
+### İbrahim Yahya AYDINLI
